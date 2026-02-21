@@ -137,8 +137,7 @@ How to structure tables
 
 How to retrieve and filter data
 
-Basic database management using SQL
- 
+
 ---
 ## 🎯 Purpose of the Project
 
